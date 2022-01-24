@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Projeto01-react-js/static/css/main.c2105930.css",
+    "main.js": "/Projeto01-react-js/static/js/main.cc513878.js",
+    "static/js/787.a9120f67.chunk.js": "/Projeto01-react-js/static/js/787.a9120f67.chunk.js",
+    "static/media/foto-perfil-angelica.png": "/Projeto01-react-js/static/media/foto-perfil-angelica.4ab5d867603d9f0216a7.png",
+    "index.html": "/Projeto01-react-js/index.html",
+    "main.c2105930.css.map": "/Projeto01-react-js/static/css/main.c2105930.css.map",
+    "main.cc513878.js.map": "/Projeto01-react-js/static/js/main.cc513878.js.map",
+    "787.a9120f67.chunk.js.map": "/Projeto01-react-js/static/js/787.a9120f67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2105930.css",
+    "static/js/main.cc513878.js"
+  ]
+}
